@@ -238,8 +238,14 @@
   .ml-0\.5 {
     margin-left: calc(var(--spacing) * 0.5);
   }
+  .contents {
+    display: contents;
+  }
   .flex {
     display: flex;
+  }
+  .table {
+    display: table;
   }
   .size-2\.5 {
     width: calc(var(--spacing) * 2.5);
@@ -379,6 +385,9 @@
     --tw-font-weight: var(--font-weight-light);
     font-weight: var(--font-weight-light);
   }
+  .text-blue-500 {
+    color: var(--color-blue-500);
+  }
   .text-blue-800 {
     color: var(--color-blue-800);
   }
@@ -394,6 +403,10 @@
   .shadow-2xl {
     --tw-shadow: 0 25px 50px -12px var(--tw-shadow-color, rgb(0 0 0 / 0.25));
     box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
+  }
+  .outline {
+    outline-style: var(--tw-outline-style);
+    outline-width: 1px;
   }
   .outline-0 {
     outline-style: var(--tw-outline-style);
