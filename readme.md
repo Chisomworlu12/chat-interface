@@ -8,17 +8,16 @@ This is a chat interface I created to practice and test my design skills. It’s
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
-- 
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Project
 I built a simple chat interface as part of my frontend development practice. The focus was on layout, responsiveness, and using Tailwind CSS for styling.
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://chat-interface-murex.vercel.app/)
 
 ### Built with
 
